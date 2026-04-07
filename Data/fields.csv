@@ -1,0 +1,201 @@
+field_id,field_name,organic_matter_pct,pH,CEC_meq_100g,bulk_density_g_cm3,available_water_capacity_cm,sand_pct,silt_pct,clay_pct,EC_dS_m,field_acres,location,latitude,longitude,k_factor,slope_pct,topsoil_depth_cm,commodity_2023,yield_2023_bu_ac,commodity_2024,yield_2024_bu_ac,commodity_2025,yield_2025_bu_ac,drainage_class
+F001,North Field,3.9,7.2,24.2,1.17,0.21,55,38,7,0.6,179,IA,41.97,-93.47,0.15,0.6,34,Wheat,63.1,Wheat,63.1,Wheat,64.3,Well
+F002,South Field,3.1,6.4,20.8,1.09,0.2,66,17,17,1.8,138,IA,41.89,-93.75,0.13,2.2,46,Soybeans,76.5,Soybeans,75.0,Soybeans,69.9,Very Poor
+F003,East Field,1.5,6.0,11.1,1.51,0.13,59,18,23,0.8,240,IA,41.91,-93.69,0.47,8.1,12,Corn,195.2,Corn,183.4,Corn,181.7,Poor
+F004,West Field,3.9,7.0,14.5,1.24,0.14,66,38,-4,0.9,64,IA,41.91,-93.71,0.29,3.5,27,Alfalfa,9.6,Alfalfa,9.3,Alfalfa,10.1,Moderately Well
+F005,Valley Plot,1.2,7.4,11.9,1.53,0.12,60,42,-2,1.8,200,IA,41.85,-93.73,0.43,8.7,10,Corn,184.7,Corn,184.6,Corn,182.3,Poor
+F006,Hilltop Field,4.4,6.0,19.0,1.19,0.23,46,23,31,0.7,145,IA,41.88,-93.69,0.17,0.8,37,Soybeans,78.9,Soybeans,75.7,Soybeans,77.6,Well
+F007,Meadow Pasture,2.0,5.8,10.2,1.44,0.14,21,20,59,1.1,177,IA,41.87,-93.49,0.39,6.3,16,Soybeans,56.5,Soybeans,57.4,Soybeans,51.6,Poor
+F008,Cropland A,3.0,6.3,10.0,1.37,0.14,56,47,-3,0.5,145,IA,42.03,-93.65,0.33,3.7,21,Corn,214.6,Corn,210.0,Corn,199.8,Somewhat Poor
+F009,Cropland B,4.0,7.5,22.0,1.11,0.2,47,37,16,0.4,221,IA,41.82,-93.71,0.17,2.8,28,Soybeans,70.1,Soybeans,71.2,Soybeans,71.6,Well
+F010,Pasture North,4.0,7.1,23.8,1.12,0.22,35,47,18,0.4,236,IA,41.96,-93.49,0.18,1.8,33,Wheat,62.0,Wheat,67.0,Wheat,67.9,Well
+F011,Ridge Field,2.8,7.0,18.1,1.28,0.2,69,37,-6,1.2,161,IA,41.82,-93.7,0.27,4.9,20,Alfalfa,9.5,Alfalfa,9.4,Alfalfa,8.9,Moderately Well
+F012,Bottomland,4.6,7.3,25.1,1.09,0.2,43,47,10,0.6,133,IA,41.8,-93.48,0.2,0.7,30,Alfalfa,11.0,Alfalfa,10.6,Alfalfa,11.7,Well
+F013,Oak Grove,3.4,5.5,21.0,1.14,0.24,33,35,32,0.6,177,IA,41.97,-93.53,0.11,1.4,43,Corn,234.7,Corn,220.5,Corn,228.7,Very Poor
+F014,Maple Creek,2.9,6.8,15.9,1.4,0.17,66,47,-13,0.6,98,IA,41.83,-93.74,0.32,5.0,17,Wheat,47.8,Wheat,57.3,Wheat,52.1,Somewhat Poor
+F015,Prairie View,4.2,7.5,18.1,1.24,0.21,40,46,14,0.7,103,IA,41.8,-93.58,0.19,1.3,32,Soybeans,76.5,Soybeans,75.2,Soybeans,70.5,Well
+F016,Spring Hill,3.0,6.9,15.5,1.26,0.16,67,43,-10,0.8,109,IA,41.83,-93.57,0.28,4.0,27,Alfalfa,9.9,Alfalfa,9.9,Alfalfa,10.5,Moderately Well
+F017,Elm Lane,1.7,6.7,7.3,1.56,0.08,41,39,20,0.6,98,IA,42.0,-93.49,0.36,10.9,11,Corn,167.0,Corn,190.6,Corn,176.7,Poor
+F018,Cedar Rapids,3.2,6.6,11.6,1.49,0.15,66,49,-15,1.4,207,IA,42.04,-93.6,0.29,5.0,21,Alfalfa,8.8,Alfalfa,9.5,Alfalfa,9.5,Somewhat Poor
+F019,Pine Haven,1.2,7.3,12.8,1.55,0.12,66,48,-14,0.7,178,IA,41.8,-93.47,0.36,5.6,14,Soybeans,54.4,Soybeans,52.2,Soybeans,50.3,Poor
+F020,Birch Meadow,3.6,5.6,22.5,1.08,0.19,68,44,-12,0.7,225,IA,41.89,-93.72,0.16,2.3,40,Soybeans,75.8,Soybeans,71.2,Soybeans,72.4,Well
+F021,Willow Creek,2.9,6.5,13.8,1.31,0.14,24,18,58,1.3,209,IA,42.03,-93.49,0.37,10.7,25,Corn,213.6,Corn,202.7,Corn,197.1,Somewhat Poor
+F022,Maple Grove,2.3,5.9,11.9,1.51,0.13,32,26,42,0.5,130,IA,41.78,-93.55,0.47,5.1,17,Alfalfa,9.3,Alfalfa,8.7,Alfalfa,9.3,Poor
+F023,Red Oak,4.1,6.3,18.9,1.19,0.22,55,24,21,0.5,85,IA,41.92,-93.53,0.15,1.9,40,Soybeans,74.1,Soybeans,78.2,Soybeans,73.8,Well
+F024,Silver Lake,2.9,6.5,18.1,1.35,0.15,44,36,20,0.8,196,IA,41.77,-93.46,0.26,2.8,20,Soybeans,58.4,Soybeans,60.6,Soybeans,66.9,Moderately Well
+F025,Hickory Hill,3.2,7.0,14.5,1.22,0.18,42,30,28,1.6,171,IA,41.9,-93.73,0.27,2.8,23,Alfalfa,9.7,Alfalfa,10.5,Alfalfa,9.5,Moderately Well
+F026,Walnut Farm,4.9,5.6,24.7,1.22,0.23,69,41,-10,0.7,158,IA,41.78,-93.45,0.2,0.7,41,Soybeans,79.7,Soybeans,84.1,Soybeans,85.4,Well
+F027,Chestnut Field,3.0,7.3,18.2,1.3,0.16,58,17,25,0.7,249,IA,41.92,-93.53,0.25,3.9,26,Corn,203.9,Corn,219.9,Corn,222.8,Moderately Well
+F028,Sycamore Plot,1.7,5.5,9.9,1.41,0.11,51,35,14,0.4,196,IA,42.03,-93.67,0.48,10.5,14,Corn,197.2,Corn,183.8,Corn,187.0,Poor
+F029,Cottonwood,3.5,7.3,14.2,1.38,0.16,31,38,31,1.4,235,IA,41.81,-93.61,0.38,6.7,25,Soybeans,60.6,Soybeans,61.0,Soybeans,61.9,Somewhat Poor
+F030,Aspen Ridge,4.9,5.8,22.3,1.11,0.23,54,20,26,0.8,105,IA,41.93,-93.62,0.17,2.3,39,Alfalfa,12.2,Alfalfa,11.5,Alfalfa,10.7,Well
+F031,River Bend,3.2,7.2,15.9,1.33,0.16,32,47,21,1.1,55,IA,41.83,-93.73,0.38,7.5,24,Alfalfa,10.2,Alfalfa,9.9,Alfalfa,10.3,Somewhat Poor
+F032,Hillcrest,3.7,7.4,19.7,1.37,0.15,32,18,50,0.7,121,IA,41.94,-93.64,0.23,2.2,28,Wheat,57.2,Wheat,61.9,Wheat,61.7,Moderately Well
+F033,Farmers Fields,3.8,6.5,17.3,1.31,0.19,42,29,29,1.6,241,IA,41.99,-93.48,0.27,4.7,28,Wheat,53.8,Wheat,57.1,Wheat,59.5,Moderately Well
+F034,Green Pasture,2.6,6.5,18.4,1.31,0.17,36,19,45,1.7,133,IA,42.0,-93.52,0.24,1.6,31,Soybeans,65.4,Soybeans,70.6,Soybeans,65.8,Moderately Well
+F035,Sunny Meadow,2.0,5.9,9.0,1.5,0.11,23,39,38,1.8,171,IA,41.95,-93.7,0.44,7.8,15,Corn,183.1,Corn,201.0,Corn,186.7,Poor
+F036,Golden Fields,1.3,6.2,7.7,1.48,0.09,46,23,31,0.5,156,IA,41.96,-93.6,0.37,7.9,11,Soybeans,51.2,Soybeans,42.6,Soybeans,44.8,Poor
+F037,Old Orchard,2.0,6.6,12.9,1.5,0.14,21,40,39,0.4,156,IA,41.96,-93.48,0.45,6.5,19,Corn,197.2,Corn,184.5,Corn,194.7,Poor
+F038,Wildflower,2.2,6.2,14.4,1.34,0.15,63,39,-2,1.8,158,IA,41.95,-93.51,0.3,4.6,16,Wheat,49.8,Wheat,50.8,Wheat,52.3,Somewhat Poor
+F039,Clover Creek,4.4,6.0,19.0,1.11,0.2,64,20,16,0.6,161,IA,41.78,-93.7,0.19,1.1,37,Wheat,64.8,Wheat,65.1,Wheat,66.1,Well
+F040,Marsh View,2.3,6.3,7.3,1.4,0.12,47,25,28,1.8,228,IA,41.83,-93.7,0.36,9.9,17,Wheat,45.9,Wheat,44.9,Wheat,43.1,Poor
+F041,Riverside,3.2,6.6,11.1,1.36,0.15,20,40,40,1.6,126,IA,41.9,-93.47,0.35,5.5,16,Soybeans,60.4,Soybeans,55.6,Soybeans,58.4,Somewhat Poor
+F042,Lakeside,3.3,5.7,15.2,1.34,0.15,34,38,28,1.3,237,IA,41.78,-93.49,0.22,2.5,24,Soybeans,71.0,Soybeans,62.6,Soybeans,68.6,Moderately Well
+F043,Mountain View,1.7,7.0,12.6,1.53,0.08,49,49,2,0.6,181,IA,41.95,-93.59,0.46,9.9,17,Corn,180.1,Corn,188.3,Corn,191.1,Poor
+F044,Valley View,2.6,7.3,12.8,1.36,0.16,21,28,51,0.4,116,IA,41.91,-93.62,0.3,3.3,16,Alfalfa,9.3,Alfalfa,8.8,Alfalfa,8.4,Somewhat Poor
+F045,Forest Edge,4.5,6.0,23.9,1.16,0.24,52,18,30,0.6,87,IA,42.01,-93.65,0.17,2.4,36,Wheat,66.9,Wheat,65.3,Wheat,66.1,Well
+F046,Woodland,3.2,6.7,10.9,1.35,0.16,55,40,5,0.7,87,IA,41.8,-93.48,0.28,3.7,17,Alfalfa,8.9,Alfalfa,9.3,Alfalfa,9.0,Somewhat Poor
+F047,Stone Creek,2.0,7.1,10.0,1.51,0.08,56,22,22,1.4,100,IA,41.86,-93.73,0.47,9.6,13,Wheat,43.4,Wheat,45.4,Wheat,45.3,Poor
+F048,Sand Ridge,1.5,6.5,8.0,1.43,0.13,59,29,12,1.0,166,IA,41.85,-93.51,0.46,5.3,10,Wheat,46.1,Wheat,41.2,Wheat,44.2,Poor
+F049,Rocky Hill,4.2,7.3,20.8,1.2,0.21,43,39,18,0.5,112,IA,42.02,-93.64,0.15,1.5,38,Soybeans,73.6,Soybeans,73.0,Soybeans,72.9,Well
+F050,Quiet Acres,2.4,6.7,7.9,1.47,0.09,32,44,24,1.6,78,IA,42.02,-93.69,0.42,6.3,17,Corn,204.2,Corn,196.8,Corn,210.6,Poor
+F051,Hidden Valley,2.2,7.0,9.7,1.49,0.11,23,15,62,0.9,159,IA,41.98,-93.67,0.41,5.5,11,Wheat,48.1,Wheat,50.9,Wheat,52.6,Poor
+F052,Dew Point,4.8,6.7,18.2,1.09,0.19,66,17,17,0.7,137,IA,41.97,-93.51,0.19,1.9,38,Alfalfa,11.8,Alfalfa,12.0,Alfalfa,12.0,Well
+F053,Morning Mist,3.8,5.9,21.3,1.11,0.19,38,33,29,0.6,197,IA,42.02,-93.5,0.16,1.6,37,Alfalfa,10.4,Alfalfa,11.4,Alfalfa,10.5,Well
+F054,Evening Shade,2.9,7.0,12.5,1.41,0.15,43,31,26,1.8,163,IA,42.02,-93.51,0.37,7.9,18,Wheat,43.7,Wheat,46.1,Wheat,48.9,Somewhat Poor
+F055,Sunrise Field,2.3,5.5,13.9,1.38,0.13,37,35,28,1.7,171,IA,41.77,-93.63,0.31,4.2,17,Corn,209.9,Corn,191.5,Corn,192.5,Somewhat Poor
+F056,Sunset Meadow,5.2,7.2,22.8,1.17,0.22,40,42,18,0.7,242,IA,41.86,-93.46,0.19,1.6,34,Wheat,66.3,Wheat,71.5,Wheat,67.9,Well
+F057,Twilight Pasture,4.4,6.8,25.3,1.19,0.22,41,19,40,0.5,130,IA,41.91,-93.7,0.18,1.2,33,Corn,237.8,Corn,240.8,Corn,232.9,Well
+F058,Dawn Creek,3.0,6.0,16.1,1.28,0.18,22,44,34,0.3,98,IA,41.84,-93.51,0.25,2.9,27,Soybeans,61.7,Soybeans,69.8,Soybeans,64.8,Moderately Well
+F059,Dusk Valley,2.4,7.2,11.6,1.52,0.13,44,32,24,1.1,96,IA,42.05,-93.47,0.44,6.3,14,Wheat,43.5,Wheat,49.0,Wheat,53.1,Poor
+F060,Blue Sky,3.9,7.4,14.2,1.34,0.16,37,45,18,1.8,66,IA,41.85,-93.5,0.3,5.5,27,Soybeans,68.5,Soybeans,65.7,Soybeans,67.6,Moderately Well
+F061,Green Leaf,2.1,7.1,9.0,1.53,0.08,44,27,29,1.4,104,IA,41.93,-93.68,0.42,10.3,17,Corn,187.8,Corn,203.6,Corn,173.9,Poor
+F062,Golden Sun,3.9,6.5,18.8,1.4,0.16,35,24,41,0.5,226,IA,41.91,-93.53,0.25,3.7,20,Corn,210.0,Corn,217.4,Corn,215.3,Moderately Well
+F063,Silver Moon,4.7,5.7,20.2,1.23,0.18,56,20,24,0.8,202,IA,41.93,-93.48,0.18,2.7,28,Alfalfa,11.2,Alfalfa,9.9,Alfalfa,10.5,Well
+F064,Red Barn,3.4,7.4,17.1,1.25,0.15,25,19,56,0.4,171,IA,42.02,-93.47,0.22,2.9,29,Corn,223.5,Corn,215.6,Corn,223.2,Moderately Well
+F065,White Fence,2.7,6.7,18.9,1.24,0.15,53,25,22,1.8,202,IA,41.79,-93.48,0.27,3.4,28,Soybeans,67.1,Soybeans,59.0,Soybeans,61.9,Moderately Well
+F066,Old Mill,2.6,6.6,16.5,1.27,0.16,56,27,17,1.8,111,IA,41.77,-93.49,0.22,3.0,24,Corn,215.1,Corn,222.1,Corn,207.8,Moderately Well
+F067,Country Road,3.8,7.2,18.4,1.3,0.19,60,27,13,1.7,215,IA,41.95,-93.56,0.29,4.9,31,Soybeans,65.2,Soybeans,72.2,Soybeans,73.0,Moderately Well
+F068,Farm House,5.1,7.2,16.4,1.08,0.24,48,26,26,0.3,66,IA,41.94,-93.46,0.17,1.2,36,Corn,234.7,Corn,242.5,Corn,231.5,Very Poor
+F069,Pond Side,3.7,7.4,24.1,1.16,0.24,48,36,16,0.8,66,IA,41.77,-93.66,0.19,2.2,39,Corn,240.3,Corn,238.5,Corn,231.4,Well
+F070,Woods Edge,2.6,6.7,19.2,1.39,0.2,31,21,48,0.4,107,IA,41.86,-93.5,0.27,5.4,23,Soybeans,54.4,Soybeans,56.0,Soybeans,59.1,Moderately Well
+F071,Garden Spot,2.7,7.0,11.0,1.46,0.16,39,36,25,0.5,70,IA,42.04,-93.74,0.36,10.2,19,Alfalfa,10.1,Alfalfa,10.0,Alfalfa,10.2,Somewhat Poor
+F072,Harvest Moon,3.5,6.8,12.5,1.48,0.13,31,32,37,1.8,194,IA,42.04,-93.69,0.28,4.2,18,Wheat,52.2,Wheat,52.8,Wheat,55.8,Somewhat Poor
+F073,Spring Rain,4.8,6.4,19.0,1.06,0.24,49,28,23,0.6,225,IA,41.82,-93.58,0.16,2.0,30,Soybeans,75.7,Soybeans,71.4,Soybeans,76.6,Well
+F074,Winter Snow,3.1,6.7,19.9,1.23,0.17,51,25,24,1.5,228,IA,41.98,-93.74,0.26,5.5,21,Corn,199.1,Corn,203.2,Corn,225.6,Moderately Well
+F075,Summer Heat,4.2,6.5,17.3,1.08,0.25,52,27,21,0.4,215,IA,41.86,-93.65,0.13,2.6,36,Alfalfa,11.0,Alfalfa,11.3,Alfalfa,11.5,Very Poor
+F076,Fall Leaves,4.7,5.6,25.5,1.04,0.25,51,26,23,1.8,176,IA,41.99,-93.65,0.17,2.3,43,Soybeans,74.8,Soybeans,82.9,Soybeans,79.5,Very Poor
+F077,North Ridge,4.5,6.0,18.3,1.08,0.21,32,39,29,0.7,185,IA,42.04,-93.65,0.15,1.0,29,Soybeans,78.7,Soybeans,74.3,Soybeans,70.4,Well
+F078,South Slope,3.6,6.3,15.4,1.4,0.2,48,29,23,0.7,238,IA,42.01,-93.53,0.23,1.7,22,Alfalfa,10.6,Alfalfa,10.1,Alfalfa,10.4,Moderately Well
+F079,East Valley,3.6,6.7,24.9,1.17,0.21,34,48,18,0.7,174,IA,42.05,-93.66,0.18,2.1,32,Soybeans,67.5,Soybeans,71.6,Soybeans,71.7,Well
+F080,West Hill,2.2,7.2,9.4,1.51,0.12,64,28,8,1.2,172,IA,41.93,-93.7,0.37,7.2,11,Wheat,43.4,Wheat,44.3,Wheat,48.9,Poor
+F081,Center Field,3.2,5.8,10.8,1.49,0.15,29,43,28,0.9,220,IA,41.88,-93.68,0.29,5.4,25,Corn,226.8,Corn,205.9,Corn,209.1,Somewhat Poor
+F082,Middle Pasture,4.8,7.2,22.3,1.11,0.25,25,34,41,0.8,78,IA,41.91,-93.47,0.14,0.6,46,Alfalfa,12.0,Alfalfa,11.2,Alfalfa,11.1,Very Poor
+F083,Upper Meadow,2.8,5.5,10.2,1.33,0.18,44,43,13,1.8,221,IA,41.9,-93.6,0.35,4.1,23,Wheat,54.8,Wheat,50.8,Wheat,50.8,Somewhat Poor
+F084,Lower Creek,3.9,6.0,23.4,1.24,0.19,66,36,-2,0.4,207,IA,42.04,-93.64,0.16,2.2,35,Alfalfa,10.7,Alfalfa,10.9,Alfalfa,11.4,Well
+F085,Upper Ridge,3.7,6.8,24.4,1.23,0.22,45,42,13,0.4,138,IA,41.85,-93.49,0.18,2.0,41,Alfalfa,11.7,Alfalfa,11.5,Alfalfa,11.0,Well
+F086,Lower Valley,2.0,7.1,11.6,1.57,0.11,38,25,37,0.9,114,IA,41.94,-93.65,0.45,6.8,11,Corn,188.4,Corn,189.3,Corn,198.3,Poor
+F087,Highland,3.4,6.8,17.3,1.29,0.14,29,16,55,1.1,247,IA,42.01,-93.59,0.27,3.8,30,Alfalfa,11.0,Alfalfa,10.8,Alfalfa,9.4,Moderately Well
+F088,Lowland,2.9,6.9,13.2,1.42,0.17,62,35,3,0.6,74,IA,41.94,-93.48,0.35,5.0,21,Corn,213.8,Corn,205.5,Corn,200.0,Somewhat Poor
+F089,Prime Acres,2.2,5.7,12.9,1.35,0.14,49,32,19,1.0,56,IA,42.0,-93.59,0.34,5.9,18,Corn,204.1,Corn,189.1,Corn,199.4,Somewhat Poor
+F090,Heritage Farm,3.2,6.6,11.1,1.48,0.15,64,27,9,1.3,58,IA,42.02,-93.68,0.36,9.9,21,Wheat,48.6,Wheat,43.8,Wheat,45.7,Somewhat Poor
+F091,Family Fields,4.2,6.8,19.9,1.21,0.2,44,32,24,0.7,98,IA,41.88,-93.7,0.21,0.9,30,Soybeans,76.5,Soybeans,77.8,Soybeans,71.3,Well
+F092,Legacy Pasture,1.6,6.7,8.4,1.44,0.12,44,16,40,0.8,174,IA,41.95,-93.62,0.4,8.6,18,Corn,194.4,Corn,193.7,Corn,202.6,Poor
+F093,Founders Field,4.7,7.3,20.7,1.23,0.23,22,23,55,0.5,98,IA,41.86,-93.73,0.16,1.1,31,Alfalfa,11.6,Alfalfa,11.2,Alfalfa,10.0,Well
+F094,Pioneer Plot,3.8,5.6,17.9,1.31,0.16,63,16,21,0.9,199,IA,41.88,-93.65,0.24,3.0,22,Alfalfa,10.1,Alfalfa,10.9,Alfalfa,9.4,Moderately Well
+F095,Settlement Field,3.8,6.8,21.3,1.13,0.23,39,17,44,0.8,54,IA,41.87,-93.7,0.17,1.1,39,Wheat,68.9,Wheat,69.2,Wheat,64.0,Well
+F096,Homestead Meadow,3.4,6.9,14.5,1.35,0.15,33,47,20,0.7,242,IA,41.86,-93.65,0.28,3.7,31,Soybeans,65.8,Soybeans,66.8,Soybeans,67.3,Moderately Well
+F097,Colonial Creek,3.8,7.4,24.3,1.16,0.21,61,32,7,0.6,116,IA,41.91,-93.53,0.16,2.2,31,Alfalfa,11.0,Alfalfa,10.1,Alfalfa,9.6,Well
+F098,Historic Farm,3.4,5.8,17.5,1.19,0.23,52,45,3,1.1,180,IA,41.98,-93.7,0.17,2.0,44,Corn,245.4,Corn,241.6,Corn,236.8,Very Poor
+F099,Liberty Field,1.2,5.7,7.8,1.57,0.11,25,46,29,0.7,54,IA,41.95,-93.7,0.41,8.7,13,Soybeans,49.2,Soybeans,45.9,Soybeans,41.9,Poor
+F100,Freedom Pasture,4.7,6.1,20.4,1.14,0.19,26,30,44,0.6,150,IA,41.94,-93.68,0.16,2.0,32,Wheat,68.4,Wheat,65.4,Wheat,68.5,Well
+F101,Prairie Wind,4.4,6.9,23.5,1.19,0.21,67,24,9,0.5,214,IA,41.85,-93.68,0.22,2.1,37,Wheat,65.7,Wheat,69.1,Wheat,63.6,Well
+F102,Golden Harvest,2.1,6.9,9.6,1.45,0.11,53,36,11,0.9,156,IA,41.84,-93.56,0.43,6.4,13,Wheat,49.3,Wheat,41.8,Wheat,43.3,Poor
+F103,Sunny Slope,2.5,6.6,12.6,1.48,0.18,26,29,45,1.1,236,IA,42.03,-93.72,0.33,4.9,22,Wheat,56.8,Wheat,52.1,Wheat,53.1,Somewhat Poor
+F104,Rolling Hills,3.7,6.9,15.7,1.29,0.14,31,36,33,1.2,56,IA,41.93,-93.56,0.25,4.8,31,Soybeans,64.7,Soybeans,66.1,Soybeans,71.9,Moderately Well
+F105,Meadow Brook,1.9,6.5,7.6,1.56,0.12,25,37,38,0.8,213,IA,41.78,-93.6,0.48,9.6,13,Wheat,41.5,Wheat,39.9,Wheat,45.3,Poor
+F106,Old Farmstead,4.3,6.2,19.9,1.13,0.21,64,35,1,0.3,241,IA,41.84,-93.52,0.22,2.7,34,Soybeans,77.7,Soybeans,69.2,Soybeans,74.5,Well
+F107,River Valley,1.6,6.9,11.0,1.55,0.11,21,29,50,1.0,247,IA,41.89,-93.59,0.42,5.4,11,Soybeans,49.1,Soybeans,55.2,Soybeans,52.6,Poor
+F108,Creek Side,1.6,6.5,10.1,1.56,0.14,31,25,44,1.4,235,IA,41.8,-93.45,0.44,10.2,13,Soybeans,51.4,Soybeans,42.4,Soybeans,45.8,Poor
+F109,Hilltop View,5.3,6.4,19.6,1.06,0.23,25,24,51,0.6,53,IA,41.83,-93.64,0.19,1.5,40,Alfalfa,12.2,Alfalfa,11.2,Alfalfa,11.3,Well
+F110,Valley Floor,2.3,7.0,12.9,1.4,0.14,27,21,52,0.4,218,IA,41.99,-93.65,0.32,4.5,25,Alfalfa,8.5,Alfalfa,8.7,Alfalfa,9.1,Somewhat Poor
+F111,North Pasture,2.3,6.3,11.9,1.56,0.09,34,38,28,1.3,193,IA,41.81,-93.51,0.37,5.7,18,Soybeans,60.5,Soybeans,59.7,Soybeans,57.8,Poor
+F112,South Meadow,4.7,6.7,19.6,1.19,0.2,58,16,26,0.7,124,IA,41.79,-93.59,0.21,1.7,30,Alfalfa,9.9,Alfalfa,11.0,Alfalfa,11.3,Well
+F113,East Ridge,2.7,6.1,18.2,1.33,0.14,45,48,7,1.5,80,IA,41.99,-93.57,0.24,0.6,25,Alfalfa,10.3,Alfalfa,9.0,Alfalfa,9.4,Moderately Well
+F114,West Field,2.8,6.1,18.1,1.31,0.18,34,32,34,0.7,127,IA,42.02,-93.74,0.26,5.3,22,Corn,203.1,Corn,217.3,Corn,208.8,Moderately Well
+F115,Center Pasture,4.2,6.5,25.9,1.09,0.21,22,42,36,0.5,208,IA,41.82,-93.57,0.14,2.0,37,Alfalfa,10.8,Alfalfa,10.3,Alfalfa,11.9,Very Poor
+F116,Corner Plot,3.9,6.0,19.5,1.21,0.16,44,46,10,0.7,162,IA,41.82,-93.66,0.3,2.9,20,Corn,216.9,Corn,219.3,Corn,208.6,Moderately Well
+F117,Back Forty,1.8,5.5,10.3,1.48,0.1,51,46,3,1.6,82,IA,41.96,-93.46,0.47,5.3,18,Alfalfa,9.2,Alfalfa,9.7,Alfalfa,8.7,Poor
+F118,Front Acres,3.2,7.2,14.4,1.4,0.18,69,23,8,0.3,164,IA,41.82,-93.49,0.23,0.7,29,Alfalfa,9.8,Alfalfa,10.5,Alfalfa,10.3,Moderately Well
+F119,Home Farm,3.5,7.4,15.8,1.28,0.17,23,15,62,1.8,202,IA,41.78,-93.54,0.27,5.1,28,Corn,215.0,Corn,229.5,Corn,204.6,Moderately Well
+F120,Cross Creek,4.3,6.3,20.7,1.12,0.25,40,39,21,0.7,121,IA,42.02,-93.65,0.13,2.8,39,Alfalfa,10.6,Alfalfa,10.5,Alfalfa,10.8,Very Poor
+F121,Deep Water,3.2,5.7,14.4,1.39,0.15,54,27,19,0.9,230,IA,41.92,-93.73,0.3,4.4,20,Corn,219.4,Corn,214.4,Corn,212.9,Somewhat Poor
+F122,Sandy Loam,4.6,5.7,20.7,1.16,0.22,50,35,15,0.7,241,IA,42.0,-93.61,0.22,1.0,29,Alfalfa,11.3,Alfalfa,10.0,Alfalfa,10.1,Well
+F123,Clay Bank,3.7,5.6,18.1,1.24,0.17,28,37,35,1.9,237,IA,41.83,-93.64,0.22,1.7,20,Wheat,56.7,Wheat,63.1,Wheat,59.2,Moderately Well
+F124,Gravel Pit,2.9,6.3,19.6,1.26,0.19,51,46,3,1.6,72,IA,41.89,-93.51,0.29,3.9,25,Wheat,54.5,Wheat,57.0,Wheat,52.9,Moderately Well
+F125,Timber Edge,4.2,6.1,20.4,1.15,0.24,60,18,22,0.8,217,IA,41.95,-93.63,0.21,1.5,38,Corn,225.1,Corn,230.5,Corn,230.7,Well
+F126,Oak Hill,2.5,7.4,14.1,1.29,0.19,37,17,46,0.3,224,IA,42.01,-93.67,0.24,2.8,23,Corn,207.4,Corn,225.9,Corn,223.3,Moderately Well
+F127,Maple Grove,3.0,7.3,15.7,1.35,0.12,58,36,6,0.9,77,IA,42.01,-93.55,0.3,4.4,23,Alfalfa,9.5,Alfalfa,9.1,Alfalfa,10.2,Somewhat Poor
+F128,Cedar Lane,2.9,7.4,18.2,1.27,0.16,48,39,13,0.9,226,IA,41.85,-93.72,0.29,4.7,27,Soybeans,65.0,Soybeans,64.5,Soybeans,58.2,Moderately Well
+F129,Pine Ridge,3.9,5.9,15.5,1.32,0.17,51,32,17,2.0,176,IA,42.03,-93.63,0.29,5.6,22,Soybeans,66.3,Soybeans,62.5,Soybeans,61.7,Moderately Well
+F130,Birch Run,2.4,7.3,10.0,1.48,0.1,34,26,40,1.6,80,IA,41.98,-93.66,0.46,9.1,10,Alfalfa,8.6,Alfalfa,8.9,Alfalfa,8.5,Poor
+F131,Willow Bend,5.1,6.5,18.8,1.18,0.21,53,17,30,0.7,141,IA,42.02,-93.64,0.2,2.6,39,Soybeans,76.2,Soybeans,80.4,Soybeans,82.1,Well
+F132,Elm Creek,1.3,6.8,11.5,1.56,0.14,62,33,5,1.5,241,IA,41.92,-93.66,0.45,6.1,18,Corn,178.6,Corn,199.8,Corn,180.3,Poor
+F133,Ash Grove,3.2,7.3,11.2,1.49,0.17,51,16,33,0.8,236,IA,41.83,-93.6,0.33,5.2,20,Corn,206.1,Corn,205.1,Corn,225.6,Somewhat Poor
+F134,Spruce Point,4.7,7.1,24.2,1.12,0.19,51,28,21,0.7,109,IA,41.76,-93.74,0.2,0.6,34,Wheat,72.6,Wheat,67.1,Wheat,69.3,Well
+F135,Fir Branch,5.0,5.6,22.8,1.18,0.22,32,35,33,0.7,224,IA,42.01,-93.61,0.19,2.9,34,Wheat,71.7,Wheat,70.0,Wheat,65.8,Well
+F136,Juniper Field,2.1,5.8,8.2,1.49,0.14,36,42,22,2.0,94,IA,41.99,-93.62,0.47,10.9,14,Alfalfa,8.8,Alfalfa,9.6,Alfalfa,9.5,Poor
+F137,Cypress Swamp,3.3,6.2,16.3,1.21,0.18,22,36,42,1.0,90,IA,41.86,-93.64,0.24,1.9,31,Soybeans,66.3,Soybeans,67.6,Soybeans,65.1,Moderately Well
+F138,Redbud Patch,3.6,7.5,23.8,1.18,0.23,51,15,34,1.4,183,IA,42.03,-93.63,0.17,2.7,35,Corn,235.7,Corn,237.1,Corn,217.7,Very Poor
+F139,Dogwood Corner,4.9,6.5,20.3,1.17,0.21,67,39,-6,0.4,193,IA,42.04,-93.6,0.19,0.5,29,Soybeans,78.5,Soybeans,76.3,Soybeans,78.3,Well
+F140,Magnolia Plot,4.4,7.2,24.8,1.07,0.21,68,46,-14,0.5,225,IA,41.81,-93.67,0.18,0.7,36,Soybeans,80.5,Soybeans,72.7,Soybeans,76.5,Well
+F141,Hickory Hollow,5.5,7.3,19.8,1.17,0.23,60,34,6,0.6,192,IA,41.79,-93.64,0.19,2.5,30,Wheat,66.3,Wheat,70.2,Wheat,70.5,Well
+F142,Walnut Grove,5.2,5.6,23.6,1.14,0.21,34,23,43,0.7,154,IA,41.78,-93.55,0.16,2.6,35,Corn,239.5,Corn,253.5,Corn,258.3,Well
+F143,Chestnut Hill,1.9,7.3,11.2,1.44,0.1,44,27,29,1.3,208,IA,42.0,-93.46,0.39,7.4,15,Corn,176.9,Corn,189.9,Corn,186.8,Poor
+F144,Sycamore Ridge,5.4,6.8,25.3,1.2,0.19,60,31,9,0.6,244,IA,42.01,-93.57,0.17,2.6,28,Corn,246.5,Corn,244.4,Corn,257.0,Well
+F145,Poplar Field,2.8,7.5,14.7,1.31,0.15,40,37,23,1.7,209,IA,42.04,-93.58,0.32,3.0,25,Alfalfa,10.6,Alfalfa,10.3,Alfalfa,10.4,Somewhat Poor
+F146,Cotton Row,1.6,5.7,10.4,1.54,0.12,29,36,35,0.6,234,IA,41.9,-93.65,0.47,9.1,12,Soybeans,47.0,Soybeans,52.0,Soybeans,48.5,Poor
+F147,Tobacco Barn,2.6,6.0,13.3,1.3,0.17,33,39,28,1.0,177,IA,41.96,-93.62,0.3,4.9,21,Corn,203.2,Corn,214.4,Corn,204.4,Somewhat Poor
+F148,Corn Patch,1.6,6.2,12.0,1.47,0.09,28,32,40,1.4,132,IA,41.97,-93.63,0.43,5.5,10,Corn,180.0,Corn,202.5,Corn,186.2,Poor
+F149,Soybean Field,3.0,6.7,11.5,1.35,0.13,28,47,25,1.0,174,IA,42.03,-93.68,0.34,5.6,24,Alfalfa,9.3,Alfalfa,10.6,Alfalfa,9.6,Somewhat Poor
+F150,Wheat Acre,5.1,6.6,18.7,1.24,0.21,25,31,44,0.7,180,IA,41.9,-93.63,0.21,1.2,31,Corn,230.1,Corn,249.0,Corn,248.4,Well
+F151,Alfalfa Stand,5.1,5.5,23.2,1.23,0.18,54,40,6,0.6,186,IA,41.84,-93.52,0.17,1.3,41,Wheat,72.8,Wheat,70.8,Wheat,76.7,Well
+F152,Clover Field,3.6,6.7,19.4,1.27,0.17,32,44,24,0.5,142,IA,42.02,-93.57,0.27,5.5,31,Soybeans,65.7,Soybeans,62.5,Soybeans,70.8,Moderately Well
+F153,Bluegrass Pasture,5.2,6.8,19.0,1.07,0.22,31,41,28,0.4,205,IA,41.96,-93.61,0.22,2.2,32,Soybeans,80.4,Soybeans,82.4,Soybeans,81.0,Well
+F154,Fescue Meadow,1.6,5.9,8.1,1.54,0.13,29,48,23,0.9,158,IA,41.88,-93.75,0.4,5.3,10,Soybeans,46.8,Soybeans,52.3,Soybeans,55.1,Poor
+F155,Timothy Lot,3.4,6.4,23.1,1.15,0.25,31,20,49,1.0,183,IA,42.03,-93.62,0.15,1.8,45,Alfalfa,10.3,Alfalfa,11.5,Alfalfa,11.0,Very Poor
+F156,Brome Grass,2.4,6.2,12.1,1.37,0.16,28,18,54,1.1,76,IA,41.9,-93.65,0.37,7.7,25,Soybeans,56.6,Soybeans,60.8,Soybeans,53.3,Somewhat Poor
+F157,Orchard Row,1.9,7.2,10.6,1.4,0.11,22,25,53,1.1,89,IA,41.84,-93.56,0.4,5.1,17,Corn,191.8,Corn,203.0,Corn,211.4,Poor
+F158,Vineyard Hill,1.8,6.9,7.4,1.5,0.09,59,48,-7,1.0,77,IA,42.0,-93.59,0.47,5.4,13,Wheat,48.2,Wheat,47.3,Wheat,41.8,Poor
+F159,Berry Patch,2.7,6.3,13.4,1.32,0.16,65,27,8,1.1,191,IA,41.87,-93.56,0.33,2.5,22,Wheat,57.2,Wheat,58.8,Wheat,56.4,Somewhat Poor
+F160,Vegetable Plot,4.2,6.4,18.5,1.14,0.24,35,30,35,0.8,168,IA,41.88,-93.47,0.2,0.7,35,Alfalfa,11.7,Alfalfa,10.3,Alfalfa,10.1,Well
+F161,Garden Row,2.7,5.6,15.9,1.28,0.16,43,46,11,1.5,180,IA,42.0,-93.64,0.29,2.5,26,Alfalfa,8.8,Alfalfa,9.1,Alfalfa,8.8,Moderately Well
+F162,Orchard Acre,1.7,6.1,8.6,1.58,0.08,28,35,37,1.3,145,IA,41.76,-93.72,0.36,9.7,11,Corn,181.2,Corn,193.7,Corn,185.4,Poor
+F163,Fruit Grove,3.5,6.9,15.2,1.33,0.13,23,21,56,0.7,204,IA,41.9,-93.58,0.33,5.8,23,Wheat,58.2,Wheat,51.8,Wheat,57.4,Somewhat Poor
+F164,Nut Orchard,1.3,6.7,11.1,1.41,0.11,53,30,17,0.6,150,IA,42.02,-93.53,0.43,7.6,13,Alfalfa,7.4,Alfalfa,8.4,Alfalfa,8.8,Poor
+F165,Silage Field,3.4,6.6,16.0,1.47,0.16,65,44,-9,1.0,124,IA,41.86,-93.74,0.36,9.3,19,Corn,209.9,Corn,194.0,Corn,209.2,Somewhat Poor
+F166,Cover Crop,2.6,5.5,12.5,1.32,0.14,22,32,46,1.9,190,IA,42.04,-93.49,0.28,4.6,18,Corn,217.4,Corn,194.4,Corn,206.0,Somewhat Poor
+F167,Green Manure,3.9,6.5,14.1,1.36,0.15,35,38,27,1.6,70,IA,41.92,-93.66,0.25,3.9,20,Alfalfa,9.8,Alfalfa,10.7,Alfalfa,10.5,Moderately Well
+F168,Fallow Ground,1.5,6.2,11.7,1.45,0.13,50,46,4,0.3,58,IA,41.96,-93.72,0.35,5.0,16,Soybeans,48.1,Soybeans,48.3,Soybeans,56.1,Poor
+F169,Set Aside,2.2,6.0,10.4,1.34,0.13,54,35,11,1.0,226,IA,41.88,-93.55,0.31,2.8,17,Corn,211.5,Corn,190.4,Corn,218.5,Somewhat Poor
+F170,Conservation Area,5.1,6.5,21.8,1.07,0.22,69,31,0,0.3,172,IA,41.95,-93.53,0.21,1.3,29,Alfalfa,11.9,Alfalfa,10.0,Alfalfa,11.9,Well
+F171,Wetland Buffer,1.3,7.0,7.8,1.4,0.13,53,30,17,1.2,236,IA,41.97,-93.58,0.46,6.0,15,Alfalfa,8.8,Alfalfa,8.9,Alfalfa,9.1,Poor
+F172,Filter Strip,4.6,5.6,23.1,1.1,0.21,41,33,26,0.4,92,IA,42.0,-93.52,0.22,1.1,35,Corn,245.4,Corn,252.3,Corn,232.9,Well
+F173,Grass Waterway,4.9,5.7,22.2,1.06,0.21,62,26,12,0.5,119,IA,41.78,-93.68,0.19,2.1,28,Wheat,69.7,Wheat,68.1,Wheat,66.2,Well
+F174,Terrace Row,2.3,7.0,8.5,1.44,0.08,40,38,22,0.9,156,IA,41.86,-93.6,0.43,10.2,15,Wheat,46.6,Wheat,39.6,Wheat,37.8,Poor
+F175,Contour Strip,2.7,7.0,16.9,1.26,0.19,22,21,57,1.0,127,IA,41.93,-93.75,0.26,5.3,25,Corn,219.9,Corn,201.9,Corn,203.2,Moderately Well
+F176,Windbreak Lane,2.3,7.1,15.6,1.34,0.13,36,41,23,0.8,97,IA,41.79,-93.62,0.35,4.4,24,Alfalfa,8.4,Alfalfa,9.8,Alfalfa,9.2,Somewhat Poor
+F177,Shelter Belt,3.7,7.0,20.3,1.24,0.21,55,35,10,0.5,58,IA,41.78,-93.72,0.2,0.8,35,Soybeans,70.9,Soybeans,68.7,Soybeans,76.5,Well
+F178,Hedgerow Field,3.6,7.3,18.3,1.35,0.17,69,38,-7,0.4,206,IA,41.95,-93.7,0.27,4.9,29,Soybeans,62.7,Soybeans,66.6,Soybeans,65.5,Moderately Well
+F179,Pollinator Patch,4.0,6.8,18.3,1.36,0.19,47,29,24,0.8,89,IA,41.89,-93.47,0.27,4.2,31,Soybeans,65.8,Soybeans,65.5,Soybeans,73.4,Moderately Well
+F180,Wildlife Food Plot,4.5,7.4,18.6,1.15,0.24,47,22,31,1.3,116,IA,41.76,-93.54,0.16,2.0,40,Corn,254.3,Corn,230.5,Corn,239.7,Very Poor
+F181,Native Prairie,2.9,7.4,14.3,1.26,0.16,58,26,16,1.7,53,IA,41.77,-93.46,0.25,2.2,25,Alfalfa,10.3,Alfalfa,10.1,Alfalfa,9.7,Moderately Well
+F182,Restored Wetland,2.4,7.0,7.3,1.56,0.11,30,22,48,0.4,157,IA,42.0,-93.57,0.45,10.5,11,Corn,193.1,Corn,195.1,Corn,196.6,Poor
+F183,Woodland Edge,3.7,7.1,17.4,1.23,0.19,51,35,14,1.2,180,IA,41.78,-93.5,0.22,1.4,24,Corn,223.5,Corn,238.6,Corn,235.3,Moderately Well
+F184,Riparian Zone,3.3,6.5,10.5,1.47,0.16,64,25,11,1.1,141,IA,41.94,-93.55,0.31,5.2,18,Soybeans,61.6,Soybeans,66.6,Soybeans,62.0,Somewhat Poor
+F185,Steep Pasture,3.0,5.9,15.4,1.45,0.18,39,29,32,1.1,66,IA,41.87,-93.75,0.38,5.7,21,Soybeans,55.5,Soybeans,57.2,Soybeans,64.9,Somewhat Poor
+F186,Gentle Slope,2.9,7.5,16.9,1.39,0.14,29,42,29,0.9,110,IA,41.84,-93.58,0.25,2.3,24,Alfalfa,8.9,Alfalfa,9.2,Alfalfa,9.1,Moderately Well
+F187,Level Terrain,1.5,6.8,11.0,1.51,0.09,69,38,-7,0.6,168,IA,42.03,-93.64,0.4,5.8,17,Alfalfa,8.3,Alfalfa,9.2,Alfalfa,9.4,Poor
+F188,Rolling Upland,3.1,5.8,14.3,1.24,0.19,67,15,18,1.7,226,IA,41.99,-93.59,0.27,4.0,20,Corn,224.4,Corn,223.9,Corn,219.6,Moderately Well
+F189,Bottom Floodplain,5.5,7.5,23.2,1.17,0.21,24,24,52,0.8,98,IA,41.78,-93.69,0.12,2.7,39,Corn,238.0,Corn,250.8,Corn,250.9,Very Poor
+F190,Terrace Top,3.8,6.2,21.5,1.07,0.21,48,33,19,0.3,86,IA,41.79,-93.73,0.17,1.5,39,Alfalfa,10.4,Alfalfa,10.5,Alfalfa,10.7,Well
+F191,Hill Shoulder,2.5,6.1,8.9,1.5,0.13,40,37,23,1.0,86,IA,41.94,-93.56,0.39,8.1,11,Corn,202.3,Corn,187.8,Corn,203.1,Poor
+F192,Valley Bottom,2.6,7.3,13.4,1.47,0.16,40,26,34,1.6,122,IA,41.97,-93.71,0.33,5.8,19,Wheat,48.0,Wheat,53.9,Wheat,47.5,Somewhat Poor
+F193,Plateau Field,4.7,5.9,25.0,1.12,0.22,40,20,40,0.5,132,IA,41.77,-93.55,0.2,0.8,38,Wheat,65.8,Wheat,67.7,Wheat,68.5,Well
+F194,Escarpment Edge,4.3,6.0,21.3,1.12,0.18,60,31,9,0.7,101,IA,41.94,-93.49,0.17,1.8,30,Alfalfa,11.1,Alfalfa,11.5,Alfalfa,10.4,Well
+F195,Draw Meadow,2.1,5.8,12.6,1.46,0.13,49,18,33,0.8,67,IA,41.97,-93.63,0.47,6.3,13,Alfalfa,8.5,Alfalfa,9.2,Alfalfa,8.0,Poor
+F196,Seepage Area,3.8,7.1,22.8,1.22,0.23,32,19,49,0.7,231,IA,41.9,-93.52,0.17,0.8,40,Wheat,70.6,Wheat,63.1,Wheat,66.7,Well
+F197,Spring Fed,4.0,5.7,25.1,1.06,0.24,37,15,48,0.8,188,IA,42.02,-93.45,0.21,0.8,30,Alfalfa,10.8,Alfalfa,9.8,Alfalfa,10.4,Well
+F198,Rainwater Catch,2.8,5.6,14.9,1.26,0.16,31,47,22,0.6,173,IA,41.76,-93.48,0.27,5.4,30,Soybeans,67.1,Soybeans,58.4,Soybeans,60.9,Moderately Well
+F199,Irrigation Plot,3.8,7.1,24.4,1.06,0.24,48,46,6,0.6,96,IA,41.96,-93.73,0.15,1.3,36,Wheat,60.6,Wheat,67.9,Wheat,69.9,Well
+F200,Dry Land Acre,1.4,7.3,9.7,1.51,0.13,49,49,2,1.4,123,IA,41.83,-93.58,0.35,5.0,13,Wheat,47.6,Wheat,46.1,Wheat,50.7,Poor
